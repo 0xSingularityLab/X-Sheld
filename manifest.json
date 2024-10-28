@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "X Sheld",
-  "version": "1.0",
+  "name": "X-Sheld",
+  "version": "1.01",
   "description": "Block X's ads, intercept phishing and fraud information in X.屏蔽X的广告、拦截X中的钓鱼信息和诈骗信息。",
   "icons": {
     "16": "images/verifymax/16.png",

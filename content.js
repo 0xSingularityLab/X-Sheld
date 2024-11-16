@@ -1,6 +1,6 @@
 function getBlockedMessage() {
     const lang = navigator.language || document.documentElement.lang;
-    return lang.startsWith('zh') ? '本条信息涉及恶意、病毒、钓鱼、盗号、滥用等危害，已被X盾屏蔽。' : 'Abuse Information Blocked by X Sheld.';
+    return lang.startsWith('zh') ? '本条信息涉及恶意、病毒、钓鱼、盗号、滥用等危害，已被X盾屏蔽。' : 'Abuse Information Blocked by X Shield.';
 }
 
 function extractTwitterAccount(article) {

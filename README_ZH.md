@@ -1,4 +1,4 @@
-[English](https://github.com/0xSingularityLab/X-Shield/README.md) | [中文教程](https://github.com/0xSingularityLab/X-Shield/README_ZH.md)
+[English](https://github.com/0xSingularityLab/X-Shield/blob/main/README.md) | [中文教程](https://github.com/0xSingularityLab/X-Shield/blob/main/README_ZH.md)
 
 ================================================================
 
